@@ -68,3 +68,4 @@ PUT api/book/:id/update
 # Delete Book of a specific id.
 DELETE api/book/:id/delete
 # todo-list
+# nest-bookstore-prisma
